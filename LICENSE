@@ -1,0 +1,167 @@
+# SecureTube Proprietary Personal Use License
+Version 1.1
+
+Copyright (c) 2026 SecureTube. All rights reserved.
+
+## 1. Acceptance of Terms
+
+By downloading, installing, copying, accessing, or using SecureTube, you acknowledge that you have read and understood this License and agree to its terms, to the extent permitted by applicable law.
+
+If you do not agree with these terms, you must not download, install, or use SecureTube.
+
+## 2. Ownership and Intellectual Property
+
+SecureTube, including its source code, application structure, interface, design, documentation, branding, and associated materials, is protected by applicable intellectual property laws.
+
+All rights not expressly granted under this License remain reserved by the copyright holder.
+
+Downloading or using SecureTube does not transfer ownership of the software or its intellectual property to the user.
+
+## 3. Permitted Personal Use
+
+Users are granted a limited, non-exclusive, non-transferable permission to:
+
+- Download SecureTube from its official or otherwise authorized source.
+- Install and run the software on their own devices.
+- Use SecureTube for personal and private purposes.
+- Inspect the source code for educational and personal purposes.
+- Modify the source code for private use.
+- Customize the interface, settings, features, and behavior for personal use.
+- Maintain private backups that are not shared with other people.
+
+These permissions do not grant the right to distribute, publish, sublicense, or commercially exploit the software or its modifications.
+
+## 4. Restrictions on Modification and Derivative Works
+
+Modifying SecureTube is permitted only for personal and private use, subject to this License.
+
+Without prior written permission from the copyright holder, users may not:
+
+- Publish or distribute modified versions of SecureTube.
+- Upload modified versions to public or private repositories accessible to other people.
+- Release forks, remakes, derivative projects, or alternative editions based on SecureTube.
+- Present modified versions as publicly available software.
+- Share modified source code or compiled builds with other people.
+- Use modifications as the basis for a competing product distributed to others.
+- Remove or replace copyright notices, ownership statements, or license information.
+- Rebrand the software to conceal its origin or imply that it is an independently created project.
+
+Private changes made for personal use do not constitute permission to publish or distribute those changes.
+
+## 5. Prohibition on Redistribution
+
+Redistribution of SecureTube is prohibited without prior written authorization from the copyright holder.
+
+This restriction includes, but is not limited to:
+
+- Sharing original copies with other users.
+- Publishing the software on alternative websites or download platforms.
+- Uploading copies to GitHub repositories or other code-hosting services.
+- Distributing compiled executables, installers, archives, or source-code packages.
+- Selling, renting, leasing, sublicensing, or commercially distributing the software.
+- Bundling SecureTube with other applications, products, or services for distribution.
+- Mirroring, repackaging, or rehosting the software.
+- Making the software available through torrents, file-sharing networks, or similar services.
+- Distributing modified versions, patches, forks, or derivative builds that contain or reproduce protected portions of the software, except where applicable law permits otherwise.
+
+These restrictions apply to both the original version and modified versions, subject to applicable law and any separate permissions granted in writing.
+
+## 6. Authorship and Misrepresentation
+
+Users must not falsely claim that SecureTube was originally created, developed, or owned by them.
+
+In particular, users may not:
+
+- Claim original authorship of the SecureTube project.
+- Present the original project as their own independent creation.
+- Remove or conceal existing copyright notices to mislead others.
+- Publish the project under a different name in a way that falsely implies independent authorship.
+- Claim exclusive ownership of the original source code.
+- Misrepresent their relationship with the original developer.
+- Suggest that the copyright holder endorses, sponsors, or supports an unauthorized derivative project.
+
+Users may accurately describe their own private modifications, provided they do not misrepresent ownership or authorship of the original project.
+
+## 7. Copyright and License Notices
+
+All copyright notices, license texts, and ownership statements included with SecureTube must be retained in copies where required by applicable law or this License.
+
+No user may deliberately remove or alter these notices to conceal the origin of the software or mislead other people about its ownership.
+
+## 8. Downloading and Use at Your Own Risk
+
+SecureTube is provided for personal use on an "AS IS" basis.
+
+You are responsible for determining whether the software is suitable for your device, operating system, and intended use.
+
+You are responsible for obtaining the software from a source you trust and for taking reasonable precautions when downloading, installing, or running software.
+
+The copyright holder does not guarantee that every copy obtained from an unofficial or unauthorized source is authentic, complete, safe, or unmodified.
+
+## 9. Disclaimer of Warranty
+
+To the maximum extent permitted by applicable law, SecureTube is provided without warranties of any kind, whether express or implied.
+
+The copyright holder does not warrant that the software will be uninterrupted, error-free, secure, compatible with every system, or suitable for a particular purpose.
+
+No guarantee is made regarding the availability, accuracy, or continued maintenance of the software.
+
+## 10. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be held liable for damages or losses resulting from downloading, installing, copying, modifying, accessing, or using SecureTube.
+
+This includes, where legally permissible, loss of data, system failures, software conflicts, device damage, interruption of service, or other direct or indirect losses associated with the software.
+
+The copyright holder is not responsible for copies obtained from unauthorized third-party sources or for alterations made by other people.
+
+Nothing in this License excludes or limits liability where such exclusion or limitation is prohibited by applicable law.
+
+## 11. Third-Party Software and Components
+
+SecureTube may use third-party libraries, frameworks, tools, or other components.
+
+Those components may be governed by separate licenses and terms. This License does not override rights or permissions granted under applicable third-party licenses.
+
+Users must comply with the applicable terms for third-party components.
+
+## 12. Termination of Permission
+
+Permission to use SecureTube may be terminated in the event of a material violation of this License, subject to applicable law.
+
+Following termination, the user must stop any use or activity that is no longer authorized.
+
+Termination does not eliminate rights or obligations that applicable law requires to survive.
+
+## 13. Permission Requests
+
+Requests to redistribute, publish, sublicense, commercially exploit, or otherwise use SecureTube beyond the permissions granted in this License must be submitted to the copyright holder.
+
+Written authorization must be obtained before carrying out any activity prohibited by this License.
+
+Permission may be granted or refused at the copyright holder's discretion, subject to applicable law.
+
+## 14. Changes to This License
+
+The copyright holder may publish updated versions of this License for future releases of SecureTube.
+
+Unless expressly stated otherwise or required by applicable law, changes do not automatically modify the terms applicable to previously obtained copies.
+
+## 15. Applicable Law
+
+This License is subject to applicable law.
+
+Nothing in this document is intended to remove rights or protections that cannot legally be waived or restricted.
+
+## 16. Entire Agreement
+
+This License describes the permissions granted for SecureTube and the restrictions applicable to its use.
+
+If any provision is found unenforceable, the remaining provisions shall remain effective to the extent permitted by applicable law.
+
+## 17. Final Statement
+
+**Personal use is permitted. Private modification is permitted. Public distribution of the original or modified software without prior written permission is prohibited. False claims of authorship or ownership are prohibited.**
+
+SecureTube remains the intellectual property of its copyright holder. All rights not expressly granted by this License are reserved.
+
+SecureTube — Privacy begins locally.
