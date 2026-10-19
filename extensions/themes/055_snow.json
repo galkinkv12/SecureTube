@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "snow",
+ "name": "Снег",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#F4F6FA",
+  "text": "#14171F",
+  "accent": "#E0294F",
+  "accent2": "#6A4DFF"
+ }
+}

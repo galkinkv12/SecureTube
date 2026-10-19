@@ -1,0 +1,13 @@
+{
+ "type": "theme",
+ "id": "brutal",
+ "name": "Брутализм",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#F2F0E6",
+  "text": "#111111",
+  "accent": "#E03200",
+  "accent2": "#0038FF"
+ },
+ "radius": 0
+}

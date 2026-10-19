@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "deep-sea",
+ "name": "Глубокое море",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#031318",
+  "text": "#D8F1F2",
+  "accent": "#1EA7A8",
+  "accent2": "#62D2E8"
+ }
+}

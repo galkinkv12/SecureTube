@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "solarized-light",
+ "name": "Солнечный день",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FDF6E3",
+  "text": "#25333A",
+  "accent": "#268BD2",
+  "accent2": "#2AA198"
+ }
+}

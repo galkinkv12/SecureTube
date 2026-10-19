@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "neon",
+ "name": "Неон",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#07070D",
+  "text": "#F0F0FF",
+  "accent": "#00F0FF",
+  "accent2": "#FF2BD6"
+ }
+}

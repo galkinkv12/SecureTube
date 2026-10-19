@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "nightfox",
+ "name": "Ночная лиса",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#131A24",
+  "text": "#CDCECF",
+  "accent": "#719CD6",
+  "accent2": "#9D79D6"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "aurora",
+ "name": "Аврора",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0A1220",
+  "text": "#E4F4F6",
+  "accent": "#52E0B6",
+  "accent2": "#8A7CFF"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "coffee",
+ "name": "Кофе",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#17110D",
+  "text": "#F1E7DE",
+  "accent": "#D9A066",
+  "accent2": "#A86A3B"
+ }
+}

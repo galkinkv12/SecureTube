@@ -1,0 +1,15 @@
+{
+ "type": "site",
+ "id": "openstreetmap",
+ "name": "OpenStreetMap",
+ "url": "https://www.openstreetmap.org",
+ "allow": [
+  "openstreetmap.org"
+ ],
+ "description": "Свободная карта мира. Плитки карты грузятся с домена openstreetmap.org.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}

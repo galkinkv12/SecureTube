@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "nord",
+ "name": "Нордик",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#2E3440",
+  "text": "#ECEFF4",
+  "accent": "#88C0D0",
+  "accent2": "#81A1C1"
+ }
+}

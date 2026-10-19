@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "tokyo-city",
+ "name": "Ночной город",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0B0B16",
+  "text": "#F1E9F6",
+  "accent": "#FF5C8A",
+  "accent2": "#4DD6FF"
+ }
+}

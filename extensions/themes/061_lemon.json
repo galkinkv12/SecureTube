@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "lemon",
+ "name": "Лимон",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FBF9E6",
+  "text": "#2E2B12",
+  "accent": "#9C7F00",
+  "accent2": "#6E8F00"
+ }
+}

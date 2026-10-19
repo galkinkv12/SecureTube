@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "lavender-night",
+ "name": "Лаванда ночью",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#14111C",
+  "text": "#ECE6F6",
+  "accent": "#B392F0",
+  "accent2": "#F28FBE"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "amber",
+ "name": "Янтарный терминал",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0F0A02",
+  "text": "#FFD79A",
+  "accent": "#FFB000",
+  "accent2": "#FF7A00"
+ }
+}

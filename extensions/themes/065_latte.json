@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "latte",
+ "name": "Латте",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#EFF1F5",
+  "text": "#2F3150",
+  "accent": "#8839EF",
+  "accent2": "#EA76CB"
+ }
+}

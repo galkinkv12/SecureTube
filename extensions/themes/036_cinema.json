@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "cinema",
+ "name": "Кино",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#140E0C",
+  "text": "#F3E6D8",
+  "accent": "#E5533D",
+  "accent2": "#F2A541"
+ }
+}

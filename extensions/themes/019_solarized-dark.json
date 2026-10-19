@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "solarized-dark",
+ "name": "Солнечная тень",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#002B36",
+  "text": "#EEE8D5",
+  "accent": "#268BD2",
+  "accent2": "#2AA198"
+ }
+}

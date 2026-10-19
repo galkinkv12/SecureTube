@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "sky",
+ "name": "Небо",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#EEF5FC",
+  "text": "#11263D",
+  "accent": "#1F6FDB",
+  "accent2": "#2B9BD6"
+ }
+}

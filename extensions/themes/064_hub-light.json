@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "hub-light",
+ "name": "Хаб светлый",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#F6F8FA",
+  "text": "#1F2328",
+  "accent": "#0969DA",
+  "accent2": "#1A7F37"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "everforest",
+ "name": "Вечный лес",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1E2326",
+  "text": "#D3C6AA",
+  "accent": "#A7C080",
+  "accent2": "#DBBC7F"
+ }
+}

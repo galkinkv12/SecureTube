@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "mocha",
+ "name": "Мокка",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#11111B",
+  "text": "#CDD6F4",
+  "accent": "#CBA6F7",
+  "accent2": "#F5C2E7"
+ }
+}

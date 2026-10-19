@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "synthwave",
+ "name": "Синтвейв",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1A1033",
+  "text": "#F4E9FF",
+  "accent": "#FF4FD8",
+  "accent2": "#3DE8FF"
+ }
+}

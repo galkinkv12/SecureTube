@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "monokai",
+ "name": "Монокай",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1E1F1C",
+  "text": "#F8F8F2",
+  "accent": "#A6E22E",
+  "accent2": "#F92672"
+ }
+}

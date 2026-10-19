@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "lavender",
+ "name": "Лаванда",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#F5F2FB",
+  "text": "#2A2140",
+  "accent": "#6A47F0",
+  "accent2": "#B24BC0"
+ }
+}

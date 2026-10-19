@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "mono",
+ "name": "Монохром",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0B0B0B",
+  "text": "#EDEDED",
+  "accent": "#FFFFFF",
+  "accent2": "#9A9A9A"
+ }
+}

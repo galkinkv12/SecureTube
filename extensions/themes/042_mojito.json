@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "mojito",
+ "name": "Мохито",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#08150F",
+  "text": "#E6F6EC",
+  "accent": "#7BE495",
+  "accent2": "#F4F269"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "rose-pine",
+ "name": "Сосна и роза",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#191724",
+  "text": "#E0DEF4",
+  "accent": "#EB6F92",
+  "accent2": "#C4A7E7"
+ }
+}

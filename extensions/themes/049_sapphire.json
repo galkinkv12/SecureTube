@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "sapphire",
+ "name": "Сапфир",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#060D1F",
+  "text": "#E3EAFB",
+  "accent": "#3B6FF5",
+  "accent2": "#7CA3FF"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "rose-dawn",
+ "name": "Рассвет розы",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FAF4ED",
+  "text": "#3A3556",
+  "accent": "#B4637A",
+  "accent2": "#907AA9"
+ }
+}

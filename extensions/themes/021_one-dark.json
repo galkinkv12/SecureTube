@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "one-dark",
+ "name": "Атом",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1E2127",
+  "text": "#D7DAE0",
+  "accent": "#61AFEF",
+  "accent2": "#C678DD"
+ }
+}

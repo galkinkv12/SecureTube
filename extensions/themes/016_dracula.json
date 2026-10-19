@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "dracula",
+ "name": "Дракула",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#282A36",
+  "text": "#F8F8F2",
+  "accent": "#BD93F9",
+  "accent2": "#FF79C6"
+ }
+}

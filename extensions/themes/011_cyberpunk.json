@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "cyberpunk",
+ "name": "Киберпанк",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0D0A12",
+  "text": "#F3F0D9",
+  "accent": "#FCEE0A",
+  "accent2": "#FF2A6D"
+ }
+}

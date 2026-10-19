@@ -1,0 +1,15 @@
+{
+ "type": "site",
+ "id": "example",
+ "name": "Проверка (example.com)",
+ "url": "https://example.com",
+ "allow": [
+  "example.com"
+ ],
+ "description": "Пустая тестовая страница: удобно проверить, что раздел «Сайты» работает.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}

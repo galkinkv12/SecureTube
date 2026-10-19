@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "gruvbox-dark",
+ "name": "Груввокс",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1D2021",
+  "text": "#EBDBB2",
+  "accent": "#FABD2F",
+  "accent2": "#FE8019"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "site",
+ "id": "wikimedia-commons",
+ "name": "Викисклад",
+ "url": "https://commons.wikimedia.org",
+ "allow": [
+  "wikimedia.org",
+  "wikipedia.org"
+ ],
+ "description": "Свободные изображения, видео и звуки.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}

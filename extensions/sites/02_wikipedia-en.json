@@ -1,0 +1,16 @@
+{
+ "type": "site",
+ "id": "wikipedia-en",
+ "name": "Wikipedia (EN)",
+ "url": "https://en.wikipedia.org",
+ "allow": [
+  "wikipedia.org",
+  "wikimedia.org"
+ ],
+ "description": "Английская Википедия.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}

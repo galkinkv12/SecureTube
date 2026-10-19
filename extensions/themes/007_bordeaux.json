@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "bordeaux",
+ "name": "Бордо",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#190A10",
+  "text": "#F6E4E9",
+  "accent": "#E8436B",
+  "accent2": "#FF9E6D"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "charcoal",
+ "name": "Уголь",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#16181D",
+  "text": "#E8E9ED",
+  "accent": "#4DD0C4",
+  "accent2": "#7DE3A5"
+ }
+}

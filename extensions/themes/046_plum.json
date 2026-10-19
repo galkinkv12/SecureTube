@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "plum",
+ "name": "Слива",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#170B17",
+  "text": "#F5E6F3",
+  "accent": "#D45BB3",
+  "accent2": "#7C5CFF"
+ }
+}

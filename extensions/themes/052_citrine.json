@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "citrine",
+ "name": "Цитрин",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#14110A",
+  "text": "#F7F0D8",
+  "accent": "#F5C518",
+  "accent2": "#FF9F1C"
+ }
+}

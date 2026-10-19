@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "sakura",
+ "name": "Сакура",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FBF3F5",
+  "text": "#3A2530",
+  "accent": "#D13E73",
+  "accent2": "#8A5CF0"
+ }
+}

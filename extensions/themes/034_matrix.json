@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "matrix",
+ "name": "Матрица",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#020A04",
+  "text": "#CFFFD8",
+  "accent": "#00FF66",
+  "accent2": "#00B84A"
+ }
+}

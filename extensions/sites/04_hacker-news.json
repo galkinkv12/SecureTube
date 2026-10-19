@@ -1,0 +1,15 @@
+{
+ "type": "site",
+ "id": "hacker-news",
+ "name": "Hacker News",
+ "url": "https://news.ycombinator.com",
+ "allow": [
+  "ycombinator.com"
+ ],
+ "description": "Новости IT. Внешние ссылки блокируются: их можно открыть во внешнем браузере после подтверждения.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}

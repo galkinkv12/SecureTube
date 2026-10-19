@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "amoled",
+ "name": "AMOLED",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#000000",
+  "text": "#F2F2F2",
+  "accent": "#FF3B5C",
+  "accent2": "#7B61FF"
+ }
+}

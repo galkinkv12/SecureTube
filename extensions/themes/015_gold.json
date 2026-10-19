@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "gold",
+ "name": "Золото",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0F0D08",
+  "text": "#F3EAD2",
+  "accent": "#E6B84D",
+  "accent2": "#F08A4B"
+ }
+}

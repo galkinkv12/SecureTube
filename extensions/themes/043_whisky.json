@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "whisky",
+ "name": "Виски",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1A110A",
+  "text": "#F4E5D1",
+  "accent": "#E39B45",
+  "accent2": "#B5651D"
+ }
+}

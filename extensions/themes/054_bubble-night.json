@@ -1,0 +1,13 @@
+{
+ "type": "theme",
+ "id": "bubble-night",
+ "name": "Пузырь",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#14122B",
+  "text": "#ECEBFF",
+  "accent": "#FF6EC7",
+  "accent2": "#6EA8FF"
+ },
+ "radius": 24
+}

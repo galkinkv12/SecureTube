@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "paper",
+ "name": "Бумага",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#F6F1E7",
+  "text": "#2B2620",
+  "accent": "#B8481F",
+  "accent2": "#7A5A2B"
+ }
+}

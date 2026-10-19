@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "ayu-light",
+ "name": "Айю светлый",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FAFAFA",
+  "text": "#313846",
+  "accent": "#E36D00",
+  "accent2": "#2D86C0"
+ }
+}

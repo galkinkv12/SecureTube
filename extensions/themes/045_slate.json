@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "slate",
+ "name": "Сланец",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#13181F",
+  "text": "#E2E8F0",
+  "accent": "#38BDF8",
+  "accent2": "#818CF8"
+ }
+}

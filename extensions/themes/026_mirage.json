@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "mirage",
+ "name": "Мираж",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#1F2430",
+  "text": "#CCCAC2",
+  "accent": "#FFCC66",
+  "accent2": "#73D0FF"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "forest",
+ "name": "Лес",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0C1710",
+  "text": "#E3F1E6",
+  "accent": "#5FD17A",
+  "accent2": "#C8E86B"
+ }
+}

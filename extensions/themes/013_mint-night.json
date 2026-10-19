@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "mint-night",
+ "name": "Мята ночью",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0A1514",
+  "text": "#E1F5F0",
+  "accent": "#3EE0B5",
+  "accent2": "#66B7FF"
+ }
+}

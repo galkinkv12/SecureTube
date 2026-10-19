@@ -1,0 +1,13 @@
+{
+ "type": "theme",
+ "id": "candy",
+ "name": "Конфета",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FFF1F8",
+  "text": "#3B1F33",
+  "accent": "#E0357F",
+  "accent2": "#7A5CF0"
+ },
+ "radius": 24
+}

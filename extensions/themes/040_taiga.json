@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "taiga",
+ "name": "Тайга",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0E1512",
+  "text": "#DDE9E1",
+  "accent": "#7FB08A",
+  "accent2": "#C9A66B"
+ }
+}

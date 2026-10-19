@@ -1,0 +1,105 @@
+{
+ "type": "accents",
+ "items": [
+  {
+   "id": "coral",
+   "name": "Коралл",
+   "accent": "#FF6B6B"
+  },
+  {
+   "id": "rose",
+   "name": "Роза",
+   "accent": "#FF4D6D"
+  },
+  {
+   "id": "raspberry",
+   "name": "Малина",
+   "accent": "#E11D48"
+  },
+  {
+   "id": "orange",
+   "name": "Оранж",
+   "accent": "#FF8A3D"
+  },
+  {
+   "id": "amber",
+   "name": "Янтарь",
+   "accent": "#FFB000"
+  },
+  {
+   "id": "lemon",
+   "name": "Лимон",
+   "accent": "#FACC15"
+  },
+  {
+   "id": "lime",
+   "name": "Лайм",
+   "accent": "#A3E635"
+  },
+  {
+   "id": "green",
+   "name": "Зелёный",
+   "accent": "#46D488"
+  },
+  {
+   "id": "teal",
+   "name": "Мята",
+   "accent": "#2DD4BF"
+  },
+  {
+   "id": "cyan",
+   "name": "Бирюза",
+   "accent": "#22D3EE"
+  },
+  {
+   "id": "sky",
+   "name": "Небо",
+   "accent": "#38BDF8"
+  },
+  {
+   "id": "blue",
+   "name": "Синий",
+   "accent": "#3B82F6"
+  },
+  {
+   "id": "indigo",
+   "name": "Индиго",
+   "accent": "#6366F1"
+  },
+  {
+   "id": "violet",
+   "name": "Фиолет",
+   "accent": "#8B5CF6"
+  },
+  {
+   "id": "fuchsia",
+   "name": "Пурпур",
+   "accent": "#D946EF"
+  },
+  {
+   "id": "pink",
+   "name": "Розовый",
+   "accent": "#F472B6"
+  },
+  {
+   "id": "silver",
+   "name": "Серебро",
+   "accent": "#CBD5E1"
+  },
+  {
+   "id": "gold",
+   "name": "Золото",
+   "accent": "#E6B84D"
+  },
+  {
+   "id": "white",
+   "name": "Белый",
+   "accent": "#FFFFFF"
+  },
+  {
+   "id": "crimson",
+   "name": "Багрянец",
+   "accent": "#DC143C"
+  }
+ ]
+}

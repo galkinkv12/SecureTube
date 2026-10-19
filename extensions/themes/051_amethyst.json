@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "amethyst",
+ "name": "Аметист",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#100818",
+  "text": "#EEE6FA",
+  "accent": "#9B5DE5",
+  "accent2": "#F15BB5"
+ }
+}

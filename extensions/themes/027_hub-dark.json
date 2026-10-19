@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "hub-dark",
+ "name": "Хаб тёмный",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0D1117",
+  "text": "#E6EDF3",
+  "accent": "#2F81F7",
+  "accent2": "#3FB950"
+ }
+}

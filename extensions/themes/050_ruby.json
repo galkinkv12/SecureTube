@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "ruby",
+ "name": "Рубин",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#14060A",
+  "text": "#F8E3E8",
+  "accent": "#E11D48",
+  "accent2": "#FB7185"
+ }
+}

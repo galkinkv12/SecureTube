@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "tokyo-night",
+ "name": "Токио-ночь",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#16161E",
+  "text": "#C0CAF5",
+  "accent": "#7AA2F7",
+  "accent2": "#BB9AF7"
+ }
+}

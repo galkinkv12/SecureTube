@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "mint-light",
+ "name": "Мята",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#EEF8F4",
+  "text": "#12302A",
+  "accent": "#13806A",
+  "accent2": "#2B6FD6"
+ }
+}

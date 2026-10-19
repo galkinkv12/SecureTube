@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "graphite",
+ "name": "Графит",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#121212",
+  "text": "#ECECEC",
+  "accent": "#FF8A3D",
+  "accent2": "#FFC857"
+ }
+}

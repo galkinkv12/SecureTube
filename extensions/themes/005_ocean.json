@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "ocean",
+ "name": "Океан",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#071A24",
+  "text": "#DFF3F8",
+  "accent": "#22C1E6",
+  "accent2": "#3BE0B2"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "type": "site",
+ "id": "internet-archive",
+ "name": "Internet Archive",
+ "url": "https://archive.org",
+ "allow": [
+  "archive.org"
+ ],
+ "description": "Библиотека книг, фильмов и сайтов. Если что-то не грузится, разрешите домен через щит.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}

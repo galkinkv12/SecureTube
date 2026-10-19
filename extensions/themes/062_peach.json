@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "peach",
+ "name": "Персик",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#FFF3EC",
+  "text": "#3A2218",
+  "accent": "#E8552B",
+  "accent2": "#D63A67"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "volcano",
+ "name": "Вулкан",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#160A06",
+  "text": "#F6E2D8",
+  "accent": "#FF5A1F",
+  "accent2": "#FFB020"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "dusk",
+ "name": "Сумерки",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#17121F",
+  "text": "#EEE7F7",
+  "accent": "#FF7AA8",
+  "accent2": "#8E7CFF"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "desert-night",
+ "name": "Пустыня ночью",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#181210",
+  "text": "#F0E3D3",
+  "accent": "#E0A15B",
+  "accent2": "#C96F5A"
+ }
+}

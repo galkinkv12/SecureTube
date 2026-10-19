@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "emerald",
+ "name": "Изумруд",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#07140F",
+  "text": "#E2F5EC",
+  "accent": "#10B981",
+  "accent2": "#34D399"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "blood-moon",
+ "name": "Кровавая луна",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#120405",
+  "text": "#F7E3E1",
+  "accent": "#E02D2D",
+  "accent2": "#FF7A45"
+ }
+}

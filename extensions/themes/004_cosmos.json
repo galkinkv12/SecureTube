@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "cosmos",
+ "name": "Космос",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0A0614",
+  "text": "#EDE7FF",
+  "accent": "#B66DFF",
+  "accent2": "#FF5DA2"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "material-ocean",
+ "name": "Материал",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0F111A",
+  "text": "#D6DAEC",
+  "accent": "#82AAFF",
+  "accent2": "#C3E88D"
+ }
+}

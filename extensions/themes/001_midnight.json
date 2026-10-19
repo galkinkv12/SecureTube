@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "midnight",
+ "name": "Полночь",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#0B0F1A",
+  "text": "#E6EAF5",
+  "accent": "#5B8CFF",
+  "accent2": "#A78BFA"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "type": "theme",
+ "id": "amoled-green",
+ "name": "AMOLED зелёный",
+ "author": "SecureTube",
+ "colors": {
+  "bg": "#000000",
+  "text": "#E8FFF0",
+  "accent": "#2EE66B",
+  "accent2": "#B6FF3D"
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "type": "site",
+ "id": "wikipedia-ru",
+ "name": "Википедия",
+ "url": "https://ru.wikipedia.org",
+ "allow": [
+  "wikipedia.org",
+  "wikimedia.org"
+ ],
+ "description": "Свободная энциклопедия. Картинки грузятся с wikimedia.org, он уже разрешён.",
+ "permissions": {
+  "js": true,
+  "persist": false,
+  "fullscreen": true
+ }
+}
